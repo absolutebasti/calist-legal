@@ -1,7 +1,7 @@
 # calist-legal
 
 Legal documents for the **Calist** app (calisthenics / hybrid-training).
-Hosted via GitHub Pages — bilingual (DE/EN), German version legally binding.
+Hosted via GitHub Pages at https://calist.torchtechnology.de (repo absolutebasti/calist-legal, CNAME at Hostinger) — bilingual (DE/EN), German version legally binding.
 
 - **Datenschutzerklärung / Privacy Policy** → [`datenschutz.html`](./datenschutz.html)
 - **Nutzungsbedingungen / Terms of Use** → [`nutzungsbedingungen.html`](./nutzungsbedingungen.html)
